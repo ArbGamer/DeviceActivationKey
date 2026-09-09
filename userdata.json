@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2cefa399561ae959",
+        "key": "arb-cheatz-7D",
+        "expirydate": "16-08-2026",
+        "Allowoffline": false
     }
 ]
